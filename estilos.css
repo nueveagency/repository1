@@ -4,3 +4,9 @@ body {
 h1 {
     text-align: center;
 }
+p{
+    text-decoration: double;
+}
+h2 {
+    background-color: aqua;
+}
